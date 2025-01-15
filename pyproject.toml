@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "animation-model"
+version = "0.1.0"
+description = ""
+authors = ["szymonsztreja <s26048@pjwstk.edu.pl>"]
+readme = "README.md"
+
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pillow = "^11.0.0"
+torch = { version = "^2.5.0", source = "pytorch-cpu" }
+torchvision = { version = "^0.20.0", source = "pytorch-cpu" }
+torchaudio = { version = "^2.5.0", source = "pytorch-cpu" }
+pytorch-lightning = "^2.4.0"
+fastapi = "^0.115.3"
+python-multipart = "^0.0.6"
+uvicorn = { extras = ["standard"], version = "^0.32.0" }
+streamlit = "^1.25.0"
+
+[[tool.poetry.source]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+priority = "explicit"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

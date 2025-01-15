@@ -1,0 +1,99 @@
+openapi: 3.0.0
+info:
+  title: Example API
+  version: 1.0.0
+paths:
+  /process-image/:
+    post:
+      summary: Process a single image
+      description: Upload and process a single image file for predictions.
+      operationId: processImage
+      requestBody:
+        content:
+          multipart/form-data:
+            schema:
+              type: object
+              properties:
+                file:
+                  type: string
+                  format: binary
+      responses:
+        '200':
+          description: Successfully processed the image
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  2d_animation:
+                    type: number
+                    format: float
+                  3d_animation:
+                    type: number
+                    format: float
+                  live_action:
+                    type: number
+                    format: float
+                  stop_motion:
+                    type: number
+                    format: float
+        '415':
+          description: Unsupported Media Type
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  detail:
+                    type: string
+
+  /process-images/:
+    post:
+      summary: Process multiple images
+      description: Upload and process multiple image files for predictions.
+      operationId: processImages
+      requestBody:
+        content:
+          multipart/form-data:
+            schema:
+              type: object
+              properties:
+                files:
+                  type: array
+                  items:
+                    type: string
+                    format: binary
+      responses:
+        '200':
+          description: Successfully processed the images
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  predictions:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        2d_animation:
+                          type: number
+                          format: float
+                        3d_animation:
+                          type: number
+                          format: float
+                        live_action:
+                          type: number
+                          format: float
+                        stop_motion:
+                          type: number
+                          format: float
+        '415':
+          description: Unsupported Media Type
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  detail:
+                    type: string
