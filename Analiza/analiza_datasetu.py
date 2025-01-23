@@ -235,7 +235,7 @@ def analyze_sharpness(category_dir):
 
     for img_name in images:
         img_path = os.path.join(category_dir, img_name)
-        img = cv2.imread(img_path, cv2.IMREAD_GRAYSCALE)  # Obrazy wskali szarości
+        img = cv2.imread(img_path, cv2.IMREAD_GRAYSCALE) 
         laplacian = cv2.Laplacian(img, cv2.CV_64F)
         score = np.var(laplacian)
         sharpness_scores.append(score)
