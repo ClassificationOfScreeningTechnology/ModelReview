@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "new-dataset"
+version = "0.1.0"
+description = ""
+authors = ["szymonsztreja <s26048@pjwstk.edu.pl>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+imdbpy = "^2022.7.9"
+requests = "^2.32.3"
+bs4 = "^0.0.2"
+selenium = "^4.27.1"
+pillow = "^11.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
