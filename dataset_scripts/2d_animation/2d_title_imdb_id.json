@@ -1,0 +1,794 @@
+[
+  {
+    "title": "The Lion King",
+    "imdb_id": "0110357"
+  },
+  {
+    "title": "Spirited Away",
+    "imdb_id": "0245429"
+  },
+  {
+    "title": "Beauty and the Beast",
+    "imdb_id": "0101414"
+  },
+  {
+    "title": "Aladdin",
+    "imdb_id": "0103639"
+  },
+  {
+    "title": "Howl's Moving Castle",
+    "imdb_id": "0347149"
+  },
+  {
+    "title": "Princess Mononoke",
+    "imdb_id": "0119698"
+  },
+  {
+    "title": "My Neighbor Totoro",
+    "imdb_id": "0096283"
+  },
+  {
+    "title": "The Simpsons Movie",
+    "imdb_id": "0462538"
+  },
+  {
+    "title": "Grave of the Fireflies",
+    "imdb_id": "0095327"
+  },
+  {
+    "title": "Mulan",
+    "imdb_id": "0120762"
+  },
+  {
+    "title": "The Little Mermaid",
+    "imdb_id": "0097757"
+  },
+  {
+    "title": "Hercules",
+    "imdb_id": "0119282"
+  },
+  {
+    "title": "Tarzan",
+    "imdb_id": "0120855"
+  },
+  {
+    "title": "The Iron Giant",
+    "imdb_id": "0129167"
+  },
+  {
+    "title": "The Emperor's New Groove",
+    "imdb_id": "0120917"
+  },
+  {
+    "title": "Who Framed Roger Rabbit",
+    "imdb_id": "0096438"
+  },
+  {
+    "title": "Enchanted",
+    "imdb_id": "0461770"
+  },
+  {
+    "title": "Snow White and the Seven Dwarfs",
+    "imdb_id": "0029583"
+  },
+  {
+    "title": "Lilo & Stitch",
+    "imdb_id": "0275847"
+  },
+  {
+    "title": "Space Jam",
+    "imdb_id": "0117705"
+  },
+  {
+    "title": "Akira",
+    "imdb_id": "0094625"
+  },
+  {
+    "title": "Pocahontas",
+    "imdb_id": "0114148"
+  },
+  {
+    "title": "The Jungle Book",
+    "imdb_id": "0061852"
+  },
+  {
+    "title": "Klaus",
+    "imdb_id": "4729430"
+  },
+  {
+    "title": "Castle in the Sky",
+    "imdb_id": "0092067"
+  },
+  {
+    "title": "One Hundred and One Dalmatians",
+    "imdb_id": "0055254"
+  },
+  {
+    "title": "Cinderella",
+    "imdb_id": "0042332"
+  },
+  {
+    "title": "The Hunchback of Notre Dame",
+    "imdb_id": "0116583"
+  },
+  {
+    "title": "The Princess and the Frog",
+    "imdb_id": "0780521"
+  },
+  {
+    "title": "Kiki's Delivery Service",
+    "imdb_id": "0097814"
+  },
+  {
+    "title": "Sleeping Beauty",
+    "imdb_id": "0053285"
+  },
+  {
+    "title": "Pinocchio",
+    "imdb_id": "0032910"
+  },
+  {
+    "title": "Ghost in the Shell",
+    "imdb_id": "4524812"
+  },
+  {
+    "title": "Alice in Wonderland",
+    "imdb_id": "0043274"
+  },
+  {
+    "title": "Bambi",
+    "imdb_id": "0034492"
+  },
+  {
+    "title": "Peter Pan",
+    "imdb_id": "0046183"
+  },
+  {
+    "title": "Lady and the Tramp",
+    "imdb_id": "0048280"
+  },
+  {
+    "title": "The Prince of Egypt",
+    "imdb_id": "0120794"
+  },
+  {
+    "title": "Dumbo",
+    "imdb_id": "0033563"
+  },
+  {
+    "title": "Robin Hood",
+    "imdb_id": "0070608"
+  },
+  {
+    "title": "Anastasia",
+    "imdb_id": "0118617"
+  },
+  {
+    "title": "Atlantis: The Lost Empire",
+    "imdb_id": "0230011"
+  },
+  {
+    "title": "Treasure Planet",
+    "imdb_id": "0133240"
+  },
+  {
+    "title": "Brother Bear",
+    "imdb_id": "0328880"
+  },
+  {
+    "title": "The Aristocats",
+    "imdb_id": "0065421"
+  },
+  {
+    "title": "The Road to El Dorado",
+    "imdb_id": "0138749"
+  },
+  {
+    "title": "The Sword in the Stone",
+    "imdb_id": "0057546"
+  },
+  {
+    "title": "Porco Rosso",
+    "imdb_id": "0104652"
+  },
+  {
+    "title": "The Wind Rises",
+    "imdb_id": "2013293"
+  },
+  {
+    "title": "Perfect Blue",
+    "imdb_id": "0156887"
+  },
+  {
+    "title": "The Land Before Time",
+    "imdb_id": "0095489"
+  },
+  {
+    "title": "Spirit: Stallion of the Cimarron",
+    "imdb_id": "0166813"
+  },
+  {
+    "title": "The Boy and the Heron",
+    "imdb_id": "6587046"
+  },
+  {
+    "title": "Space Jam: A New Legacy",
+    "imdb_id": "3554046"
+  },
+  {
+    "title": "The Lion King II: Simba's Pride",
+    "imdb_id": "0120131"
+  },
+  {
+    "title": "Whisper of the Heart",
+    "imdb_id": "0113824"
+  },
+  {
+    "title": "The Rescuers",
+    "imdb_id": "0076618"
+  },
+  {
+    "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+    "imdb_id": "8589698"
+  },
+  {
+    "title": "Neon Genesis Evangelion: The End of Evangelion",
+    "imdb_id": "0169858"
+  },
+  {
+    "title": "A Goofy Movie",
+    "imdb_id": "0113198"
+  },
+  {
+    "title": "Titan A.E.",
+    "imdb_id": "0120913"
+  },
+  {
+    "title": "Song of the Sea",
+    "imdb_id": "1865505"
+  },
+  {
+    "title": "Batman: The Dark Knight Returns, Part 1",
+    "imdb_id": "2313197"
+  },
+  {
+    "title": "The SpongeBob Movie: Sponge Out of Water",
+    "imdb_id": "2279373"
+  },
+  {
+    "title": "Batman: The Killing Joke",
+    "imdb_id": "4853102"
+  },
+  {
+    "title": "How the Grinch Stole Christmas!",
+    "imdb_id": "0060345"
+  },
+  {
+    "title": "An American Tail",
+    "imdb_id": "0090633"
+  },
+  {
+    "title": "Batman: Mask of the Phantasm",
+    "imdb_id": "0106364"
+  },
+  {
+    "title": "Batman: The Dark Knight Returns, Part 2",
+    "imdb_id": "2166834"
+  },
+  {
+    "title": "The Tale of The Princess Kaguya",
+    "imdb_id": "2576852"
+  },
+  {
+    "title": "The Great Mouse Detective",
+    "imdb_id": "0091149"
+  },
+  {
+    "title": "The Garden of Words",
+    "imdb_id": "2591814"
+  },
+  {
+    "title": "From Up on Poppy Hill",
+    "imdb_id": "1798188"
+  },
+  {
+    "title": "Oliver & Company",
+    "imdb_id": "0095776"
+  },
+  {
+    "title": "Balto",
+    "imdb_id": "0112453"
+  },
+  {
+    "title": "The Rescuers Down Under",
+    "imdb_id": "0100477"
+  },
+  {
+    "title": "Chip 'n Dale: Rescue Rangers",
+    "imdb_id": "3513500"
+  },
+  {
+    "title": "All Dogs Go to Heaven",
+    "imdb_id": "0096787"
+  },
+  {
+    "title": "The Lion King 1½",
+    "imdb_id": "0318403"
+  },
+  {
+    "title": "Pokémon: The First Movie - Mewtwo Strikes Back",
+    "imdb_id": "0190641"
+  },
+  {
+    "title": "A Charlie Brown Christmas",
+    "imdb_id": "0059026"
+  },
+  {
+    "title": "The Transformers: The Movie",
+    "imdb_id": "0092106"
+  },
+  {
+    "title": "Fantasia 2000",
+    "imdb_id": "0120910"
+  },
+  {
+    "title": "The Black Cauldron",
+    "imdb_id": "0088814"
+  },
+  {
+    "title": "Looney Tunes: Back in Action",
+    "imdb_id": "0318155"
+  },
+  {
+    "title": "The Many Adventures of Winnie the Pooh",
+    "imdb_id": "0076363"
+  },
+  {
+    "title": "Watership Down",
+    "imdb_id": "0078480"
+  },
+  {
+    "title": "Wolfwalkers",
+    "imdb_id": "5198068"
+  },
+  {
+    "title": "Osmosis Jones",
+    "imdb_id": "0181739"
+  },
+  {
+    "title": "Aladdin and the King of Thieves",
+    "imdb_id": "0115491"
+  },
+  {
+    "title": "Only Yesterday",
+    "imdb_id": "0102587"
+  },
+  {
+    "title": "The Lord of the Rings",
+    "imdb_id": "0077869"
+  },
+  {
+    "title": "FernGully: The Last Rainforest",
+    "imdb_id": "0104254"
+  },
+  {
+    "title": "Lupin III: The Castle of Cagliostro",
+    "imdb_id": "0079833"
+  },
+  {
+    "title": "The Return of Jafar",
+    "imdb_id": "0107952"
+  },
+  {
+    "title": "The Last Unicorn",
+    "imdb_id": "0084237"
+  },
+  {
+    "title": "DuckTales the Movie: Treasure of the Lost Lamp",
+    "imdb_id": "0099472"
+  },
+  {
+    "title": "Winnie the Pooh",
+    "imdb_id": "1449283"
+  },
+  {
+    "title": "An American Tail: Fievel Goes West",
+    "imdb_id": "0101329"
+  },
+  {
+    "title": "Yellow Submarine",
+    "imdb_id": "0063823"
+  },
+  {
+    "title": "The Brave Little Toaster",
+    "imdb_id": "0092695"
+  },
+  {
+    "title": "Pete's Dragon",
+    "imdb_id": "0076538"
+  },
+  {
+    "title": "Home on the Range",
+    "imdb_id": "0299172"
+  },
+  {
+    "title": "Eight Crazy Nights",
+    "imdb_id": "0271263"
+  },
+  {
+    "title": "The Pagemaster",
+    "imdb_id": "0110763"
+  },
+  {
+    "title": "Cool World",
+    "imdb_id": "0104009"
+  },
+  {
+    "title": "Pokémon the Movie 2000",
+    "imdb_id": "0210234"
+  },
+  {
+    "title": "Charlotte's Web",
+    "imdb_id": "0070016"
+  },
+  {
+    "title": "The Little Mermaid II: Return to the Sea",
+    "imdb_id": "0240684"
+  },
+  {
+    "title": "It's the Great Pumpkin, Charlie Brown",
+    "imdb_id": "0060550"
+  },
+  {
+    "title": "The Bob's Burgers Movie",
+    "imdb_id": "7466442"
+  },
+  {
+    "title": "Teen Titans GO! To the Movies",
+    "imdb_id": "7424200"
+  },
+  {
+    "title": "The Rugrats Movie",
+    "imdb_id": "0134067"
+  },
+  {
+    "title": "The Tigger Movie",
+    "imdb_id": "0220099"
+  },
+  {
+    "title": "Animal Farm",
+    "imdb_id": "0047834"
+  },
+  {
+    "title": "Scooby-Doo on Zombie Island",
+    "imdb_id": "0166792"
+  },
+  {
+    "title": "Mirai",
+    "imdb_id": "6900448"
+  },
+  {
+    "title": "The Adventures of Ichabod and Mr. Toad",
+    "imdb_id": "0041094"
+  },
+  {
+    "title": "Curious George",
+    "imdb_id": "0381971"
+  },
+  {
+    "title": "Quest for Camelot",
+    "imdb_id": "0120800"
+  },
+  {
+    "title": "Neon Genesis Evangelion: Death & Rebirth",
+    "imdb_id": "0169880"
+  },
+  {
+    "title": "The Wild Thornberrys",
+    "imdb_id": "0282120"
+  },
+  {
+    "title": "Fritz the Cat",
+    "imdb_id": "0068612"
+  },
+  {
+    "title": "Phineas and Ferb the Movie: Across the 2nd Dimension",
+    "imdb_id": "1825918"
+  },
+  {
+    "title": "Rugrats in Paris",
+    "imdb_id": "0213203"
+  },
+  {
+    "title": "Wizards",
+    "imdb_id": "0076929"
+  },
+  {
+    "title": "Angel's Egg",
+    "imdb_id": "0208502"
+  },
+  {
+    "title": "Beauty and the Beast: The Enchanted Christmas",
+    "imdb_id": "0118692"
+  },
+  {
+    "title": "A Cat in Paris",
+    "imdb_id": "1673702"
+  },
+  {
+    "title": "The Powerpuff Girls Movie",
+    "imdb_id": "0289408"
+  },
+  {
+    "title": "Rock-A-Doodle",
+    "imdb_id": "0102802"
+  },
+  {
+    "title": "The Land Before Time II: The Great Valley Adventure",
+    "imdb_id": "0110300"
+  },
+  {
+    "title": "Rugrats Go Wild",
+    "imdb_id": "0337711"
+  },
+  {
+    "title": "Look Back",
+    "imdb_id": "31711040"
+  },
+  {
+    "title": "Piglet's Big Movie",
+    "imdb_id": "0323642"
+  },
+  {
+    "title": "Cats Don't Dance",
+    "imdb_id": "0118829"
+  },
+  {
+    "title": "Pooh's Heffalump Movie",
+    "imdb_id": "0407121"
+  },
+  {
+    "title": "Asterix in America",
+    "imdb_id": "0109162"
+  },
+  {
+    "title": "Little Nemo: Adventures in Slumberland",
+    "imdb_id": "0104740"
+  },
+  {
+    "title": "Belladonna of Sadness",
+    "imdb_id": "0071203"
+  },
+  {
+    "title": "My Little Pony: The Movie",
+    "imdb_id": "4131800"
+  },
+  {
+    "title": "Hey Arnold! The Movie",
+    "imdb_id": "0314166"
+  },
+  {
+    "title": "A Troll in Central Park",
+    "imdb_id": "0108395"
+  },
+  {
+    "title": "Melody Time",
+    "imdb_id": "0040580"
+  },
+  {
+    "title": "The Peasants",
+    "imdb_id": "10651230"
+  },
+  {
+    "title": "Pooh's Grand Adventure: The Search for Christopher Robin",
+    "imdb_id": "0119918"
+  },
+  {
+    "title": "All Dogs Go to Heaven 2",
+    "imdb_id": "0115509"
+  },
+  {
+    "title": "The Land Before Time III: The Time of the Great Giving",
+    "imdb_id": "0113596"
+  },
+  {
+    "title": "Scooby-Doo and the Legend of the Vampire",
+    "imdb_id": "0357139"
+  },
+  {
+    "title": "The Chipmunk Adventure",
+    "imdb_id": "0092752"
+  },
+  {
+    "title": "The Care Bears Movie",
+    "imdb_id": "0088885"
+  },
+  {
+    "title": "Jetsons: The Movie",
+    "imdb_id": "0099878"
+  },
+  {
+    "title": "A Boy Named Charlie Brown",
+    "imdb_id": "0064107"
+  },
+  {
+    "title": "The Pebble and the Penguin",
+    "imdb_id": "0114108"
+  },
+  {
+    "title": "Phineas and Ferb the Movie: Candace Against the Universe",
+    "imdb_id": "1817232"
+  },
+  {
+    "title": "American Pop",
+    "imdb_id": "0082009"
+  },
+  {
+    "title": "The Land Before Time IV: Journey Through the Mists",
+    "imdb_id": "0116817"
+  },
+  {
+    "title": "Scooby-Doo and the Reluctant Werewolf",
+    "imdb_id": "0189072"
+  },
+  {
+    "title": "Snoopy Come Home",
+    "imdb_id": "0069289"
+  },
+  {
+    "title": "Make Mine Music",
+    "imdb_id": "0038718"
+  },
+  {
+    "title": "Felidae",
+    "imdb_id": "0109791"
+  },
+  {
+    "title": "Gulliver's Travels",
+    "imdb_id": "0031397"
+  },
+  {
+    "title": "The Thief and the Cobbler",
+    "imdb_id": "0112389"
+  },
+  {
+    "title": "Hilda and the Mountain King",
+    "imdb_id": "15777864"
+  },
+  {
+    "title": "Midori",
+    "imdb_id": "0930902"
+  },
+  {
+    "title": "Race for Your Life, Charlie Brown",
+    "imdb_id": "0076591"
+  },
+  {
+    "title": "Coonskin",
+    "imdb_id": "0071361"
+  },
+  {
+    "title": "Heavy Traffic",
+    "imdb_id": "0070165"
+  },
+  {
+    "title": "The Phantom Tollbooth",
+    "imdb_id": "0064806"
+  },
+  {
+    "title": "Bon Voyage, Charlie Brown (and Don't Come Back!!)",
+    "imdb_id": "0080461"
+  },
+  {
+    "title": "Doug's 1st Movie",
+    "imdb_id": "0187819"
+  },
+  {
+    "title": "The Lorax",
+    "imdb_id": "0213065"
+  },
+  {
+    "title": "Golgo 13: The Professional",
+    "imdb_id": "0086148"
+  },
+  {
+    "title": "Rover Dangerfield",
+    "imdb_id": "0102813"
+  },
+  {
+    "title": "Ed, Edd n Eddy's Big Picture Show",
+    "imdb_id": "1232047"
+  },
+  {
+    "title": "The Loud House Movie",
+    "imdb_id": "6714432"
+  },
+  {
+    "title": "My Little Pony: The Movie",
+    "imdb_id": "0091584"
+  },
+  {
+    "title": "We Bare Bears: The Movie",
+    "imdb_id": "10474606"
+  },
+  {
+    "title": "Care Bears Movie II: A New Generation",
+    "imdb_id": "0090799"
+  },
+  {
+    "title": "Mobile Suit Gundam I",
+    "imdb_id": "0159509"
+  },
+  {
+    "title": "Galaxy Express 999",
+    "imdb_id": "0080772"
+  },
+  {
+    "title": "Lupin the 3rd: The Mystery of Mamo",
+    "imdb_id": "0078187"
+  },
+  {
+    "title": "FernGully 2: The Magical Rescue",
+    "imdb_id": "0129924"
+  },
+  {
+    "title": "Winnie the Pooh and Christmas Too",
+    "imdb_id": "0220159"
+  },
+  {
+    "title": "Mobile Suit Gundam II: Soldiers of Sorrow",
+    "imdb_id": "0159510"
+  },
+  {
+    "title": "Winnie the Pooh: Seasons of Giving",
+    "imdb_id": "0240219"
+  },
+  {
+    "title": "Mobile Suit Gundam III: Encounters in Space",
+    "imdb_id": "0159511"
+  },
+  {
+    "title": "Cartoon All-Stars to the Rescue",
+    "imdb_id": "0154129"
+  },
+  {
+    "title": "Hey Good Lookin'",
+    "imdb_id": "0084070"
+  },
+  {
+    "title": "It's Such a Beautiful Day",
+    "imdb_id": "2396224"
+  },
+  {
+    "title": "The Glassworker",
+    "imdb_id": "5986440"
+  },
+  {
+    "title": "Arcadia of My Youth",
+    "imdb_id": "0084881"
+  },
+  {
+    "title": "A Thousand & One Nights",
+    "imdb_id": "0064961"
+  },
+  {
+    "title": "Cleopatra",
+    "imdb_id": "0065588"
+  },
+  {
+    "title": "Adieu Galaxy Express 999",
+    "imdb_id": "0184881"
+  },
+  {
+    "title": "The Casagrandes Movie",
+    "imdb_id": "31123288"
+  },
+  {
+    "title": "Super Mario Brothers: Great Mission to Rescue Princess Peach",
+    "imdb_id": "0469611"
+  },
+  {
+    "title": "Disney Princess Enchanted Tales: Follow Your Dreams",
+    "imdb_id": "1135924"
+  }
+]

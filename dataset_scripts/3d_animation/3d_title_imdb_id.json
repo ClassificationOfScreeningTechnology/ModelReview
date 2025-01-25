@@ -1,0 +1,922 @@
+[
+  {
+    "title": "WALL·E",
+    "imdb_id": "0910970"
+  },
+  {
+    "title": "Up",
+    "imdb_id": "1049413"
+  },
+  {
+    "title": "Finding Nemo",
+    "imdb_id": "0266543"
+  },
+  {
+    "title": "Toy Story",
+    "imdb_id": "0114709"
+  },
+  {
+    "title": "Monsters, Inc.",
+    "imdb_id": "0198781"
+  },
+  {
+    "title": "Toy Story 3",
+    "imdb_id": "0435761"
+  },
+  {
+    "title": "Ratatouille",
+    "imdb_id": "0382932"
+  },
+  {
+    "title": "Inside Out",
+    "imdb_id": "2096673"
+  },
+  {
+    "title": "The Incredibles",
+    "imdb_id": "0317705"
+  },
+  {
+    "title": "How to Train Your Dragon",
+    "imdb_id": "0892769"
+  },
+  {
+    "title": "Shrek",
+    "imdb_id": "0126029"
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "imdb_id": "4633694"
+  },
+  {
+    "title": "Frozen",
+    "imdb_id": "2294629"
+  },
+  {
+    "title": "Toy Story 2",
+    "imdb_id": "0120363"
+  },
+  {
+    "title": "Coco",
+    "imdb_id": "2380307"
+  },
+  {
+    "title": "Despicable Me",
+    "imdb_id": "1323594"
+  },
+  {
+    "title": "Zootopia",
+    "imdb_id": "2948356"
+  },
+  {
+    "title": "Kung Fu Panda",
+    "imdb_id": "0441773"
+  },
+  {
+    "title": "Ice Age",
+    "imdb_id": "0268380"
+  },
+  {
+    "title": "Shrek 2",
+    "imdb_id": "0298148"
+  },
+  {
+    "title": "Big Hero 6",
+    "imdb_id": "2245084"
+  },
+  {
+    "title": "Tangled",
+    "imdb_id": "0398286"
+  },
+  {
+    "title": "Cars",
+    "imdb_id": "0317219"
+  },
+  {
+    "title": "Wreck-It Ralph",
+    "imdb_id": "1772341"
+  },
+  {
+    "title": "Brave",
+    "imdb_id": "1217209"
+  },
+  {
+    "title": "Madagascar",
+    "imdb_id": "0351283"
+  },
+  {
+    "title": "Despicable Me 2",
+    "imdb_id": "1690953"
+  },
+  {
+    "title": "Spider-Man: Across the Spider-Verse",
+    "imdb_id": "9362722"
+  },
+  {
+    "title": "Monsters University",
+    "imdb_id": "1453405"
+  },
+  {
+    "title": "Moana",
+    "imdb_id": "3521164"
+  },
+  {
+    "title": "Soul",
+    "imdb_id": "2948372"
+  },
+  {
+    "title": "The Lego Movie",
+    "imdb_id": "1490017"
+  },
+  {
+    "title": "How to Train Your Dragon 2",
+    "imdb_id": "1646971"
+  },
+  {
+    "title": "Incredibles 2",
+    "imdb_id": "3606756"
+  },
+  {
+    "title": "Shrek the Third",
+    "imdb_id": "0413267"
+  },
+  {
+    "title": "Kung Fu Panda 2",
+    "imdb_id": "1302011"
+  },
+  {
+    "title": "A Bug's Life",
+    "imdb_id": "0120623"
+  },
+  {
+    "title": "Finding Dory",
+    "imdb_id": "2277860"
+  },
+  {
+    "title": "Megamind",
+    "imdb_id": "1001526"
+  },
+  {
+    "title": "Ice Age: The Meltdown",
+    "imdb_id": "0438097"
+  },
+  {
+    "title": "Rango",
+    "imdb_id": "1192628"
+  },
+  {
+    "title": "The Jungle Book",
+    "imdb_id": "3040964"
+  },
+  {
+    "title": "Hotel Transylvania",
+    "imdb_id": "0837562"
+  },
+  {
+    "title": "Toy Story 4",
+    "imdb_id": "1979376"
+  },
+  {
+    "title": "The Lion King",
+    "imdb_id": "6105098"
+  },
+  {
+    "title": "Encanto",
+    "imdb_id": "2953050"
+  },
+  {
+    "title": "Ice Age: Dawn of the Dinosaurs",
+    "imdb_id": "1080016"
+  },
+  {
+    "title": "Minions",
+    "imdb_id": "2293640"
+  },
+  {
+    "title": "Cloudy with a Chance of Meatballs",
+    "imdb_id": "0844471"
+  },
+  {
+    "title": "Rio",
+    "imdb_id": "1436562"
+  },
+  {
+    "title": "The Super Mario Bros. Movie",
+    "imdb_id": "6718170"
+  },
+  {
+    "title": "Madagascar: Escape 2 Africa",
+    "imdb_id": "0479952"
+  },
+  {
+    "title": "The Polar Express",
+    "imdb_id": "0338348"
+  },
+  {
+    "title": "The Adventures of Tintin",
+    "imdb_id": "0983193"
+  },
+  {
+    "title": "The Croods",
+    "imdb_id": "0481499"
+  },
+  {
+    "title": "Bolt",
+    "imdb_id": "0397892"
+  },
+  {
+    "title": "Ice Age: Continental Drift",
+    "imdb_id": "1667889"
+  },
+  {
+    "title": "Shrek Forever After",
+    "imdb_id": "0892791"
+  },
+  {
+    "title": "Cars 2",
+    "imdb_id": "1216475"
+  },
+  {
+    "title": "The Secret Life of Pets",
+    "imdb_id": "2709768"
+  },
+  {
+    "title": "Sausage Party",
+    "imdb_id": "1700841"
+  },
+  {
+    "title": "Luca",
+    "imdb_id": "12801262"
+  },
+  {
+    "title": "Happy Feet",
+    "imdb_id": "0366548"
+  },
+  {
+    "title": "Madagascar 3: Europe's Most Wanted",
+    "imdb_id": "1277953"
+  },
+  {
+    "title": "Shark Tale",
+    "imdb_id": "0307453"
+  },
+  {
+    "title": "Frozen II",
+    "imdb_id": "4520988"
+  },
+  {
+    "title": "Kung Fu Panda 3",
+    "imdb_id": "2267968"
+  },
+  {
+    "title": "Sing",
+    "imdb_id": "3470600"
+  },
+  {
+    "title": "Rise of the Guardians",
+    "imdb_id": "1446192"
+  },
+  {
+    "title": "Puss in Boots",
+    "imdb_id": "0448694"
+  },
+  {
+    "title": "Over the Hedge",
+    "imdb_id": "0327084"
+  },
+  {
+    "title": "Puss in Boots: The Last Wish",
+    "imdb_id": "3915174"
+  },
+  {
+    "title": "Inside Out 2",
+    "imdb_id": "22022452"
+  },
+  {
+    "title": "Ralph Breaks the Internet",
+    "imdb_id": "5848272"
+  },
+  {
+    "title": "Bee Movie",
+    "imdb_id": "0389790"
+  },
+  {
+    "title": "Monsters vs. Aliens",
+    "imdb_id": "0892782"
+  },
+  {
+    "title": "The Lego Batman Movie",
+    "imdb_id": "4116284"
+  },
+  {
+    "title": "Raya and the Last Dragon",
+    "imdb_id": "5109280"
+  },
+  {
+    "title": "Beowulf",
+    "imdb_id": "0442933"
+  },
+  {
+    "title": "Onward",
+    "imdb_id": "7146812"
+  },
+  {
+    "title": "Robots",
+    "imdb_id": "0358082"
+  },
+  {
+    "title": "Antz",
+    "imdb_id": "0120587"
+  },
+  {
+    "title": "Despicable Me 3",
+    "imdb_id": "3469046"
+  },
+  {
+    "title": "Turning Red",
+    "imdb_id": "8097030"
+  },
+  {
+    "title": "How to Train Your Dragon: The Hidden World",
+    "imdb_id": "2386490"
+  },
+  {
+    "title": "Horton Hears a Who!",
+    "imdb_id": "0451079"
+  },
+  {
+    "title": "9",
+    "imdb_id": "0472033"
+  },
+  {
+    "title": "Hotel Transylvania 2",
+    "imdb_id": "2510894"
+  },
+  {
+    "title": "The Boss Baby",
+    "imdb_id": "3874544"
+  },
+  {
+    "title": "Monster House",
+    "imdb_id": "0385880"
+  },
+  {
+    "title": "Elemental",
+    "imdb_id": "15789038"
+  },
+  {
+    "title": "Flushed Away",
+    "imdb_id": "0424095"
+  },
+  {
+    "title": "The Lorax",
+    "imdb_id": "1482459"
+  },
+  {
+    "title": "A Christmas Carol",
+    "imdb_id": "1067106"
+  },
+  {
+    "title": "The Mitchells vs. the Machines",
+    "imdb_id": "7979580"
+  },
+  {
+    "title": "The Good Dinosaur",
+    "imdb_id": "1979388"
+  },
+  {
+    "title": "Cars 3",
+    "imdb_id": "3606752"
+  },
+  {
+    "title": "Lightyear",
+    "imdb_id": "10298810"
+  },
+  {
+    "title": "Cloudy with a Chance of Meatballs 2",
+    "imdb_id": "1985966"
+  },
+  {
+    "title": "Turbo",
+    "imdb_id": "1860353"
+  },
+  {
+    "title": "Meet the Robinsons",
+    "imdb_id": "0396555"
+  },
+  {
+    "title": "Home",
+    "imdb_id": "2224026"
+  },
+  {
+    "title": "Epic",
+    "imdb_id": "0848537"
+  },
+  {
+    "title": "Open Season",
+    "imdb_id": "0400717"
+  },
+  {
+    "title": "The Angry Birds Movie",
+    "imdb_id": "1985949"
+  },
+  {
+    "title": "Penguins of Madagascar",
+    "imdb_id": "1911658"
+  },
+  {
+    "title": "The Wild Robot",
+    "imdb_id": "29623480"
+  },
+  {
+    "title": "Rio 2",
+    "imdb_id": "2357291"
+  },
+  {
+    "title": "Chicken Little",
+    "imdb_id": "0371606"
+  },
+  {
+    "title": "The Grinch",
+    "imdb_id": "2709692"
+  },
+  {
+    "title": "Minions: The Rise of Gru",
+    "imdb_id": "5113044"
+  },
+  {
+    "title": "Trolls",
+    "imdb_id": "1679335"
+  },
+  {
+    "title": "Surf's Up",
+    "imdb_id": "0423294"
+  },
+  {
+    "title": "Sing 2",
+    "imdb_id": "6467266"
+  },
+  {
+    "title": "Hotel Transylvania 3: Summer Vacation",
+    "imdb_id": "5220122"
+  },
+  {
+    "title": "Legend of the Guardians: The Owls of Ga'Hoole",
+    "imdb_id": "1219342"
+  },
+  {
+    "title": "Final Fantasy: The Spirits Within",
+    "imdb_id": "0173840"
+  },
+  {
+    "title": "The Animatrix",
+    "imdb_id": "0328832"
+  },
+  {
+    "title": "Space Jam: A New Legacy",
+    "imdb_id": "3554046"
+  },
+  {
+    "title": "The Book of Life",
+    "imdb_id": "2262227"
+  },
+  {
+    "title": "Mr. Peabody & Sherman",
+    "imdb_id": "0864835"
+  },
+  {
+    "title": "The Lego Movie 2: The Second Part",
+    "imdb_id": "3513498"
+  },
+  {
+    "title": "Ice Age: Collision Course",
+    "imdb_id": "3416828"
+  },
+  {
+    "title": "DC League of Super-Pets",
+    "imdb_id": "8912936"
+  },
+  {
+    "title": "Star Wars: The Clone Wars",
+    "imdb_id": "0458290"
+  },
+  {
+    "title": "The Emoji Movie",
+    "imdb_id": "4877122"
+  },
+  {
+    "title": "The Secret Life of Pets 2",
+    "imdb_id": "5113040"
+  },
+  {
+    "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+    "imdb_id": "8589698"
+  },
+  {
+    "title": "TMNT",
+    "imdb_id": "0453556"
+  },
+  {
+    "title": "Arthur Christmas",
+    "imdb_id": "1430607"
+  },
+  {
+    "title": "Storks",
+    "imdb_id": "4624424"
+  },
+  {
+    "title": "Dinosaur",
+    "imdb_id": "0130623"
+  },
+  {
+    "title": "The Little Prince",
+    "imdb_id": "1754656"
+  },
+  {
+    "title": "Hoodwinked!",
+    "imdb_id": "0443536"
+  },
+  {
+    "title": "Ferdinand",
+    "imdb_id": "3411444"
+  },
+  {
+    "title": "The Bad Guys",
+    "imdb_id": "8115900"
+  },
+  {
+    "title": "The SpongeBob Movie: Sponge Out of Water",
+    "imdb_id": "2279373"
+  },
+  {
+    "title": "Kung Fu Panda 4",
+    "imdb_id": "21692408"
+  },
+  {
+    "title": "Waltz with Bashir",
+    "imdb_id": "1185616"
+  },
+  {
+    "title": "Gnomeo & Juliet",
+    "imdb_id": "0377981"
+  },
+  {
+    "title": "The Sea Beast",
+    "imdb_id": "9288046"
+  },
+  {
+    "title": "Planet 51",
+    "imdb_id": "0762125"
+  },
+  {
+    "title": "Spies in Disguise",
+    "imdb_id": "5814534"
+  },
+  {
+    "title": "Final Fantasy VII: Advent Children",
+    "imdb_id": "0385700"
+  },
+  {
+    "title": "The Croods: A New Age",
+    "imdb_id": "2850386"
+  },
+  {
+    "title": "Despicable Me 4",
+    "imdb_id": "7510222"
+  },
+  {
+    "title": "Nimona",
+    "imdb_id": "19500164"
+  },
+  {
+    "title": "IF",
+    "imdb_id": "11152168"
+  },
+  {
+    "title": "The Peanuts Movie",
+    "imdb_id": "2452042"
+  },
+  {
+    "title": "Planes",
+    "imdb_id": "1691917"
+  },
+  {
+    "title": "Moana 2",
+    "imdb_id": "13622970"
+  },
+  {
+    "title": "Happy Feet Two",
+    "imdb_id": "1402488"
+  },
+  {
+    "title": "Chip 'n Dale: Rescue Rangers",
+    "imdb_id": "3513500"
+  },
+  {
+    "title": "Strange World",
+    "imdb_id": "10298840"
+  },
+  {
+    "title": "The Addams Family",
+    "imdb_id": "1620981"
+  },
+  {
+    "title": "Wish",
+    "imdb_id": "11304740"
+  },
+  {
+    "title": "Abominable",
+    "imdb_id": "6324278"
+  },
+  {
+    "title": "Smallfoot",
+    "imdb_id": "6182908"
+  },
+  {
+    "title": "The Ant Bully",
+    "imdb_id": "0429589"
+  },
+  {
+    "title": "Hotel Transylvania 4: Transformania",
+    "imdb_id": "9848626"
+  },
+  {
+    "title": "Ron's Gone Wrong",
+    "imdb_id": "7504818"
+  },
+  {
+    "title": "Arthur and the Invisibles",
+    "imdb_id": "0344854"
+  },
+  {
+    "title": "Tom & Jerry",
+    "imdb_id": "1361336"
+  },
+  {
+    "title": "Astro Boy",
+    "imdb_id": "0375568"
+  },
+  {
+    "title": "Leo",
+    "imdb_id": "5755238"
+  },
+  {
+    "title": "The Tale of Despereaux",
+    "imdb_id": "0420238"
+  },
+  {
+    "title": "Transformers One",
+    "imdb_id": "8864596"
+  },
+  {
+    "title": "Jimmy Neutron: Boy Genius",
+    "imdb_id": "0268397"
+  },
+  {
+    "title": "Migration",
+    "imdb_id": "6495056"
+  },
+  {
+    "title": "The Angry Birds Movie 2",
+    "imdb_id": "6095472"
+  },
+  {
+    "title": "Barnyard",
+    "imdb_id": "0414853"
+  },
+  {
+    "title": "Wish Dragon",
+    "imdb_id": "5562070"
+  },
+  {
+    "title": "Resident Evil: Degeneration",
+    "imdb_id": "1174954"
+  },
+  {
+    "title": "Captain Underpants: The First Epic Movie",
+    "imdb_id": "2091256"
+  },
+  {
+    "title": "Luck",
+    "imdb_id": "7214954"
+  },
+  {
+    "title": "The Lego Ninjago Movie",
+    "imdb_id": "3014284"
+  },
+  {
+    "title": "Scoob!",
+    "imdb_id": "3152592"
+  },
+  {
+    "title": "The Nut Job",
+    "imdb_id": "1821658"
+  },
+  {
+    "title": "Trolls World Tour",
+    "imdb_id": "6587640"
+  },
+  {
+    "title": "The Wild",
+    "imdb_id": "0405469"
+  },
+  {
+    "title": "Open Season 2",
+    "imdb_id": "1107365"
+  },
+  {
+    "title": "Escape from Planet Earth",
+    "imdb_id": "0765446"
+  },
+  {
+    "title": "Free Birds",
+    "imdb_id": "1621039"
+  },
+  {
+    "title": "Over the Moon",
+    "imdb_id": "7488208"
+  },
+  {
+    "title": "Smurfs: The Lost Village",
+    "imdb_id": "2398241"
+  },
+  {
+    "title": "Leap!",
+    "imdb_id": "2261287"
+  },
+  {
+    "title": "Valiant",
+    "imdb_id": "0361089"
+  },
+  {
+    "title": "Igor",
+    "imdb_id": "0465502"
+  },
+  {
+    "title": "Mars Needs Moms",
+    "imdb_id": "1305591"
+  },
+  {
+    "title": "The Boss Baby: Family Business",
+    "imdb_id": "6932874"
+  },
+  {
+    "title": "A Monster in Paris",
+    "imdb_id": "0961097"
+  },
+  {
+    "title": "The SpongeBob Movie: Sponge on the Run",
+    "imdb_id": "4823776"
+  },
+  {
+    "title": "Vivo",
+    "imdb_id": "6338498"
+  },
+  {
+    "title": "The Willoughbys",
+    "imdb_id": "5206260"
+  },
+  {
+    "title": "The Garfield Movie",
+    "imdb_id": "5779228"
+  },
+  {
+    "title": "Batman: The Long Halloween, Part One",
+    "imdb_id": "14324650"
+  },
+  {
+    "title": "Planes: Fire & Rescue",
+    "imdb_id": "2980706"
+  },
+  {
+    "title": "Next Gen",
+    "imdb_id": "7133686"
+  },
+  {
+    "title": "Appleseed",
+    "imdb_id": "0401233"
+  },
+  {
+    "title": "Jack-Jack Attack",
+    "imdb_id": "0455565"
+  },
+  {
+    "title": "Toy Story of Terror",
+    "imdb_id": "2446040"
+  },
+  {
+    "title": "The Ice Age Adventures of Buck Wild",
+    "imdb_id": "13634480"
+  },
+  {
+    "title": "Tinker Bell",
+    "imdb_id": "0823671"
+  },
+  {
+    "title": "Trolls Band Together",
+    "imdb_id": "14362112"
+  },
+  {
+    "title": "Entergalactic",
+    "imdb_id": "10687116"
+  },
+  {
+    "title": "Gantz: O",
+    "imdb_id": "5923962"
+  },
+  {
+    "title": "My Neighbors the Yamadas",
+    "imdb_id": "0206013"
+  },
+  {
+    "title": "The Addams Family 2",
+    "imdb_id": "11125620"
+  },
+  {
+    "title": "Orion and the Dark",
+    "imdb_id": "28066777"
+  },
+  {
+    "title": "Asterix and Obelix: Mansion of the Gods",
+    "imdb_id": "3759416"
+  },
+  {
+    "title": "Mufasa: The Lion King",
+    "imdb_id": "13186482"
+  },
+  {
+    "title": "Alpha and Omega",
+    "imdb_id": "1213012"
+  },
+  {
+    "title": "Mike's New Car",
+    "imdb_id": "0323250"
+  },
+  {
+    "title": "The Pirate Fairy",
+    "imdb_id": "2483260"
+  },
+  {
+    "title": "Secret of the Wings",
+    "imdb_id": "1217213"
+  },
+  {
+    "title": "Sherlock Gnomes",
+    "imdb_id": "2296777"
+  },
+  {
+    "title": "Hoodwinked Too! Hood vs. Evil",
+    "imdb_id": "0844993"
+  },
+  {
+    "title": "That Christmas",
+    "imdb_id": "14855468"
+  },
+  {
+    "title": "Ronal the Barbarian",
+    "imdb_id": "1629374"
+  },
+  {
+    "title": "Open Season 3",
+    "imdb_id": "1646926"
+  },
+  {
+    "title": "Blood: The Last Vampire",
+    "imdb_id": "0275230"
+  },
+  {
+    "title": "Dragon Hunters",
+    "imdb_id": "0944834"
+  },
+  {
+    "title": "Harlock: Space Pirate",
+    "imdb_id": "2668134"
+  },
+  {
+    "title": "Wonder Park",
+    "imdb_id": "6428676"
+  },
+  {
+    "title": "Burn-E",
+    "imdb_id": "1334585"
+  },
+  {
+    "title": "Tinker Bell and the Lost Treasure",
+    "imdb_id": "1216516"
+  },
+  {
+    "title": "Space Chimps",
+    "imdb_id": "0482603"
+  },
+  {
+    "title": "Strange Magic",
+    "imdb_id": "4191054"
+  },
+  {
+    "title": "Apollo 10½: A Space Age Childhood",
+    "imdb_id": "7978758"
+  },
+  {
+    "title": "Terkel in Trouble",
+    "imdb_id": "0386820"
+  }
+]
