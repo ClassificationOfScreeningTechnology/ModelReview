@@ -4,7 +4,7 @@ import yaml
 
 app = FastAPI()
 
-# Dodanie routera z endpointami
+# routery z endpointami
 app.include_router(api_router)
 
 with open("app/doc.yaml", "r") as f:

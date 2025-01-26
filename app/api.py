@@ -42,6 +42,7 @@ async def process_images(files: list[UploadFile] = File(...)):
             with torch.no_grad():
                 prediction = model(preprocessed_image)
 
+    
             prediction_scores = prediction.squeeze().tolist()
             prediction_dict = {class_name: score for class_name, score in zip(classes, prediction_scores)}
             predictions.append(prediction_dict)
