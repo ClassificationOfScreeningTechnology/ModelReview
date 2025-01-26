@@ -8,7 +8,6 @@ This project is an API built using FastAPI, which processes image files and make
 Before running the project, ensure you have the following installed:
 
 - **Docker**: Docker must be installed on your system. If you don’t have it yet, you can install Docker from [here](https://www.docker.com/get-started).
-- **Python**: You will need Python installed if you're not using the containerized environment.
 
 ## Getting Started
 
@@ -19,7 +18,7 @@ Follow these steps to build and run the project using Docker.
 Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/BigMoistLochu/ModelReview.git
+git clone https://github.com/ClassificationOfScreeningTechnology/ModelReview.git
 ```
 
 ### 2. Build the Docker Image
@@ -32,16 +31,15 @@ docker build -t inzynier-app .
 
 ### 3. Run the Docker Container
 
-Once the image is built, you can run it using Docker. This command will run the container in interactive mode (`-it`), mapping port 8000 on your local machine to port 8000 in the container, allowing you to access the FastAPI application via `localhost:8000`.
+Once the image is built, you can run it using Docker. This command will run the container in interactive mode (`-it`), mapping port 8000 on your local machine to port 8000 in the container for 8501 also, allowing you to access the FastAPI application on `localhost:8000`.
 
 ```bash
-# docker run -it --name myapp-container -p 8000:8000 inzynier-app /bin/bash
 docker run -it --name myapp-container -p 8000:8000 -p 8501:8501 inzynier-app /bin/bash
-
 ```
 
 - `--name myapp-container`: Assigns a name to your running container (`myapp-container`).
 - `-p 8000:8000`: Maps port 8000 on your host machine to port 8000 inside the container.
+- `-p 8501:8501`: Maps port 8501 on your host machine to port 8000 inside the container.
 - `/bin/bash`: Starts an interactive bash shell inside the container.
 
 ### 4. Start the FastAPI Application
@@ -50,13 +48,14 @@ Inside the container, run the following command to start the FastAPI app with Uv
 
 ```bash
 uvicorn app.main:app --host 0.0.0.0 --port 8000
-# http://localhost:8501  dla frontendu
+```
+```bash
 streamlit run app/streamlit_app.py
 ```
 
-- `app.main:app`: This tells Uvicorn to run the `app` instance from the `main.py` file located in the `app` directory.
-- `--host 0.0.0.0`: Makes the application accessible from any IP address (not just `localhost`).
+- `--host 0.0.0.0`: Makes the application accessible from any IP address.
 - `--port 8000`: Specifies that the app should run on port 8000.
+- `--port 8501`: Specifies that the app should run on port 8501.
 
 ### 5. Access the Application
 
@@ -64,6 +63,12 @@ After starting the server, the FastAPI application will be available at:
 
 ```
 http://localhost:8000
+```
+
+You can view the frontend for user at:
+
+```
+http://localhost:8501
 ```
 
 You can view the interactive API documentation at:
