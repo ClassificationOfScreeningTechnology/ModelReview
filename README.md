@@ -1,7 +1,7 @@
 # ClassificationOfScreeningTechnology
 
 This repository contains the resources developed for the thesis project "Classification of Screening Technology." 
-The project focuses on developing a computer vision model to classify and analyze screening technologies based on various criteria. 
+The project focuses on developing a computer vision model to classify and analyze screening technologies based on visual criteria. 
 The repository is structured into key components, including Jupyter notebooks for model development, scripts for dataset preparation and analysis, and a containerized FastAPI server for serving the model.
 
 ## Repository Structure
