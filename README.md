@@ -27,13 +27,6 @@ The repository is structured into key components, including Jupyter notebooks fo
 ## Requirements
   Requirements are directory-dependent. Please check the directory for specific dependencies.
 
-## Contribution
-Feel free to open issues or submit pull requests if you have suggestions for improving the repository.
-
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-## Acknowledgments
-- Special thanks to [insert relevant names or organizations].
-- Tools and frameworks used: FastAPI, PyTorch, Docker, and more.
 
