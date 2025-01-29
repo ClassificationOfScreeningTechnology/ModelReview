@@ -22,7 +22,10 @@ The repository is structured into key components, including Jupyter notebooks fo
 - A containerized FastAPI server that:
   - Hosts the trained computer vision model.
   - Includes endpoint for predictions.
- 
+    
+### **Dataset**
+The dataset is available on Hugging Face:  
+[ANIMATION_TYPES_3.0](https://huggingface.co/datasets/krowiemlekommm/ANIMATION_TYPES_3.0)
     
 ## Requirements
   Requirements are directory-dependent. Please check the directory for specific dependencies.
